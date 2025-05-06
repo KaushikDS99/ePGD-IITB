@@ -6,6 +6,8 @@ Create a python (or conda) environment like (for linux like system):
 ```
 python -m venv /path/to/env
 ```
+To activate the python environment:
+
 ```
 source env/bin/activate
 ```
