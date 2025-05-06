@@ -4,6 +4,8 @@ This repository contains practice assignments and projects undertaken during my 
 Create a python (or conda) environment like (for linux like system):
 
 ```python -m venv /path/to/env
+```
+```
    source env/bin/activate
 ```
 Then, install all requirements in the environment using pip (or conda):
