@@ -1,5 +1,5 @@
 # ePGD-IITB
-This repository contains practice assignments and projects undertaken during my PG Diploma in AI at IIT Bombay.
+This repository contains practice assignments and projects being undertaken during my PG Diploma in AI at IIT Bombay.
 
 Create a python (or conda) environment like (for linux like system):
 
